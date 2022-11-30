@@ -1,5 +1,5 @@
 {
-  "name": "@dielsondiniz/code-library",
+  "name": "@dielsondiniz/simple-component-library-master",
   "version": "0.1.0",
   "main": "dist/index.js",
   "publishConfig": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/dielsondiniz/simple-component-library-master"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
